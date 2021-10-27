@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: darkgray;
+}
+
+h1 {
+    font-family: 'Zen Antique Soft', serif;
+    margin-bottom: 0px;
+}
+
+header {
+    width: 90%;
+    padding: 10px;
+    padding-bottom: 0px;
+    margin-left: auto; margin-right: auto;
+    background: white;
+    border-bottom: 3px solid black;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+.movietitle {
+    font-weight: bold;
+    font-family: 'Zen Antique Soft', serif;
+    font-size: 150%;
+    color: darkblue;
+}
+
+.moviecaption {
+    font-style: italic;
+    color: #822;
+}
+
+main {
+    width: 90%;
+    padding: 10px;
+    margin-left: auto; margin-right: auto;
+    background: lightgray;
+}
+
+footer {
+    width: 90%;
+    padding: 10px;
+    padding-top: 0px;
+    font-size: 75%;
+    margin-left: auto; margin-right: auto;
+    background: white;
+    border-top: 3px solid orange;
+}
